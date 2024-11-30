@@ -1,0 +1,4 @@
+baseURL = 'https://ajanicij.github.io/vogonblog'
+languageCode = 'en-us'
+title = "Aleksandar Janicijevic's blog"
+theme = 'paper'
